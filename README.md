@@ -29,6 +29,7 @@ Daksh Aerospace is focused on:
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge\&logo=instagram)](https://www.instagram.com/dakshfofindi/)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge\&logo=twitter)](https://x.com/dakshfofindi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://in.linkedin.com/in/dakshfofindi)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dakshfofindi@gmail.com)
 
 ---
 
@@ -119,21 +120,21 @@ Daksh Aerospace is focused on:
 
 ## 🏅 Certifications & Badges
 
-[![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Google-blue?style=for-the-badge\&logo=google)](https://www.skills.google/public_profiles/7b5db56b-3702-43ed-8f85-b1a960914644/badges/17270097)
+[![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Google-blue?style=for-the-badge&logo=google)](https://www.skills.google/public_profiles/7b5db56b-3702-43ed-8f85-b1a960914644/badges/17270097)
 
-[![LLM](https://img.shields.io/badge/Large%20Language%20Models-Google-orange?style=for-the-badge\&logo=google)](https://www.skills.google/public_profiles/7b5db56b-3702-43ed-8f85-b1a960914644/badges/17263254)
+[![LLM](https://img.shields.io/badge/Large%20Language%20Models-Google-orange?style=for-the-badge&logo=google)](https://www.skills.google/public_profiles/7b5db56b-3702-43ed-8f85-b1a960914644/badges/17263254)
 
-[![Generative AI](https://img.shields.io/badge/Generative%20AI-Google-red?style=for-the-badge\&logo=google)](https://www.skills.google/public_profiles/7b5db56b-3702-43ed-8f85-b1a960914644/badges/17262854)
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-Google-red?style=for-the-badge&logo=google)](https://www.skills.google/public_profiles/7b5db56b-3702-43ed-8f85-b1a960914644/badges/17262854)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dakshfofindi\&show_icons=true\&theme=radical\&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dakshfofindi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dakshfofindi\&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=dakshfofindi&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshfofindi\&layout=compact\&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshfofindi&layout=compact&theme=tokyonight) 
 
 ---
 
