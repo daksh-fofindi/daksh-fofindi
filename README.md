@@ -128,13 +128,49 @@ Daksh Aerospace is focused on:
 
 ---
 
+## 🚀 Achievements & Work
+
+## 🚀 Achievements & Work
+
+<p align="center">
+  <a href="Certificates/nasa-certificate-asteroid-discovery.jpg">
+    <img src="Certificates/nasa-certificate-asteroid-discovery.jpg" height="200"/>
+  </a>
+  <a href="Certificates/nasa-stargazingindia-astroid1.jpg">
+    <img src="Certificates/nasa-stargazingindia-astroid1.jpg" height="200"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Asteroid Discovery &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔭 Asteroid Imaging
+</p>
+
+<br>
+
+<p align="center">
+  <a href="Certificates/rocket-competition-certificate.jpg">
+    <img src="Certificates/rocket-competition-certificate.jpg" height="200"/>
+  </a>
+  <a href="Certificates/stargazingindia-moon-over-us.jpg">
+    <img src="Certificates/stargazingindia-moon-over-us.jpg" height="200"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Rocket Competition &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🌙 Moon Observation
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dakshfofindi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=daksh-fofindi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Streak](https://streak-stats.demolab.com?user=dakshfofindi&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=daksh-fofindi&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshfofindi&layout=compact&theme=tokyonight) 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daksh-fofindi&layout=compact&theme=tokyonight) 
 
 ---
 
